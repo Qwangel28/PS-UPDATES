@@ -1,0 +1,59 @@
+What You’ll Need:
+A USB flash drive (at least 1GB for the update file).
+
+A computer with internet access.
+
+Your PS4
+
+A working FAT32 or exFAT formatted USB drive (this is important).
+
+**# Step-by-Step Fix:**
+1. **Format the USB drive properly**
+Insert the USB into your computer.
+
+Right-click it > Click Format.
+
+Choose FAT32 or exFAT as the file system.
+
+Click Start to format.
+
+2. **Create the correct folder path**
+On the USB drive, make a folder named PS4 (must be all caps).
+
+Inside the PS4 folder, create another folder named UPDATE (also all caps).
+
+Your folder path should now be:
+USB drive > PS4 > UPDATE
+
+3. **Download the correct file**
+Go to the official PlayStation website:
+**https://www.playstation.com/en-us/support/hardware/ps4/install-system-software/**
+
+Scroll down to "Reinstall System Software" and download the bigger file (around 1 GB).
+
+The file will be named something like PS4UPDATE.PUP.
+
+4. **Put the file in the right folder**
+Move the downloaded PS4UPDATE.PUP file into the UPDATE folder you created.
+
+Final path should be:
+USB drive > PS4 > UPDATE > PS4UPDATE.PUP
+
+5. **Plug the USB into the PS4 or PS5**
+Turn off the PS4 completely (not Rest Mode).
+
+Plug the USB drive into one of the front USB ports.
+
+Press and hold the PS4's power button until you hear a second beep (7 seconds total). This puts the PS4 in Safe Mode.
+
+6. **Reinstall system software**
+In Safe Mode, select option 7: Reinstall System Software.
+
+Follow the on-screen instructions.
+
+The PS4 will format the drive and install a fresh system software.
+
+# Tips:
+Make sure the file is named exactly PS4UPDATE.PUP (all caps, no extra characters).
+
+If your PS4 can't find the file, double-check the folder structure and formatting.
